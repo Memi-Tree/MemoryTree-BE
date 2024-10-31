@@ -2,7 +2,7 @@
 name: "⚙️ Setting - 작업할 것"
 about: Development environment setup Template
 title: "⚙️ Setting - "
-labels: ''
+labels: "⚙️ Setting"
 assignees: ''
 
 ---
